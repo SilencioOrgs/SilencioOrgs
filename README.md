@@ -1,3 +1,6 @@
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F72D&center=true&vCenter=true&width=600&lines=Fullstack+Developer;IoT+Builder;Next.js+%7C+PHP+%7C+ESP32;Welcome+to+my+GitHub!" />
+</p>
 <h1 align="center">Hi 👋 I'm Asnor</h1>
 <p align="center">
 Full-Stack Developer • IoT Builder • Computer Engineering Student 🇵🇭
