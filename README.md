@@ -1,47 +1,100 @@
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F72D&center=true&vCenter=true&width=600&lines=Fullstack+Developer;IoT+Builder;Next.js+%7C+PHP+%7C+ESP32;Welcome+to+my+GitHub!" />
-</p>
-<h1 align="center">Hi 👋 I'm Asnor</h1>
-<p align="center">
-Full-Stack Developer • IoT Builder • Computer Engineering Student 🇵🇭
-</p>
-<p align="center">
-  <em>Turning caffeine and Stack Overflow into working software since forever</em>
-</p>
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=SilencioOrgs&style=for-the-badge">
-</p>
+<div align="center">
+
+# Asnor Abaño Sumdad
+
+**Computer Engineering Student · Full-Stack Developer · IoT Engineer**
+
+Santa Cruz, Laguna 🇵🇭 · asnor023@gmail.com
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-asnorsumdad.vercel.app-black?style=for-the-badge&logo=vercel)](https://asnorsumdad.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-asnor023@gmail.com-black?style=for-the-badge&logo=gmail)](mailto:asnor023@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=SilencioOrgs&style=for-the-badge&color=black)](https://github.com/SilencioOrgs)
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTd0OXl0MG9yemI1b2M3c21wY3l2aW40dnM5ZTF4aXk5M3k0OXBnYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/x2cHgtw3b32QqnFLwN/giphy.gif" width="420"/>
-</p>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTd0OXl0MG9yemI1b2M3c21wY3l2aW40dnM5ZTF4aXk5M3k0OXBnYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/x2cHgtw3b32QqnFLwN/giphy.gif" align="right" width="360"/>
+
+## About Me
+
+I'm a Computer Engineering student at **Laguna State Polytechnic University** building things across the full stack — from web platforms and mobile apps to IoT hardware systems. I work with real clients, ship real products, and occasionally let AI drive while I supervise.
+
+- 🔭 Currently building: SaaS products & embedded IoT systems
+- 🎓 BS Computer Engineering, 2022 – Present
+- 🏆 Campus Programming Champion (C++), Regional Java Competitor
+- 🌐 Open to freelance & collaborative projects
+
+<br clear="right"/>
 
 ---
 
-<h2 align="center">🚀 What I Build</h2>
-<p align="center">
-💍 Wedding RSVP SaaS — because "maybe" is not a valid headcount<br/>
-📱 ESP32 IoT mobile systems<br/>
-🤖 Raspberry Pi embedded projects<br/>
-🧠 AI-powered web apps<br/>
-🤝 Vibe-coded solutions — I let the AI drive, I just make sure we don't crash
-</p>
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| 💍 **RSVP Wedding SaaS** | Multi-client wedding RSVP platform with guest lists, exclusive links & automated email confirmations | Next.js · Supabase · NodeMailer |
+| 🕊️ **Hereafter, Pal** | Digital memorial platform with AI voice cloning and secure payment integration | Next.js · ElevenLabs · PayMongo |
+| 💊 **PillPal** | IoT mobile ecosystem for smart medication scheduling with real-time ESP32 hardware sync | Flutter · Firebase · HiveMQ |
+| 🤖 **ChadGPT** | Local LLM-powered conversational AI interface | Next.js · FastAPI · Ollama |
+| 📡 **RFID Attendance System** | Embedded attendance tracker with real-time React dashboard | Raspberry Pi · ESP32 · Python |
+| 🍽️ **Ordering System** | Full-stack restaurant management web app | Next.js · Supabase · Framer Motion |
 
 ---
 
-<h2 align="center">🛠 Tech Stack</h2>
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nextjs,react,php,mysql,postgres,flutter,fastapi,firebase,supabase,arduino,raspberrypi" />
-</p>
+## 🛠️ Tech Stack
+
+**Frontend**
+![Next.js](https://skillicons.dev/icons?i=nextjs)
+![React](https://skillicons.dev/icons?i=react)
+![Flutter](https://skillicons.dev/icons?i=flutter)
+![TypeScript](https://skillicons.dev/icons?i=ts)
+![TailwindCSS](https://skillicons.dev/icons?i=tailwind)
+
+**Backend & Database**
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![FastAPI](https://skillicons.dev/icons?i=fastapi)
+![PHP](https://skillicons.dev/icons?i=php)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![Firebase](https://skillicons.dev/icons?i=firebase)
+![Supabase](https://skillicons.dev/icons?i=supabase)
+
+**Hardware & IoT**
+![Arduino](https://skillicons.dev/icons?i=arduino)
+![Raspberry Pi](https://skillicons.dev/icons?i=raspberrypi)
+![C++](https://skillicons.dev/icons?i=cpp)
+
+**Tools**
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![Figma](https://skillicons.dev/icons?i=figma)
 
 ---
 
-<h2 align="center">🌐 Portfolio</h2>
-<p align="center">
-<a href="https://asnorsumdad.vercel.app/">asnorsumdad.vercel.app</a>
-</p>
-<p align="center">
-📫 asnor023@gmail.com
-</p>
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Asnor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SilencioOrgs&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SilencioOrgs&layout=compact&theme=github_dark&hide_border=true)
+
+</div>
+
+---
+
+## 🏅 Achievements
+
+- 🥇 **Campus Programming Champion** — CpE Days 2022 (C++)
+- 🌏 **International Participant** — Reply Code Challenge 2022
+- 🎓 **Regional Competitor** — ICpEP Programming Competition 2024 (Java)
+
+---
+
+<div align="center">
+
+*Building with purpose. Shipping with coffee.*
+
+**📫 asnor023@gmail.com · [asnorsumdad.vercel.app](https://asnorsumdad.vercel.app/)**
+
+</div>
