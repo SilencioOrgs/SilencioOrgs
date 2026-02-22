@@ -7,7 +7,7 @@
 
 ---
 
-<img src="https://tenor.com/view/hanosaurs-filipino-meme-maris-racal-gif-21513770"/>
+<img src="https://media.tenor.com/Npdl9kOaKFJAAAAC/hanosaurs-filipino-meme.gif" width="420"/>
 
 ---
 
