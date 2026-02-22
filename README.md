@@ -6,9 +6,9 @@
 
 Santa Cruz, Laguna 🇵🇭 · asnor023@gmail.com
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-asnorsumdad.vercel.app-black?style=for-the-badge&logo=vercel)](https://asnorsumdad.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-asnor023@gmail.com-black?style=for-the-badge&logo=gmail)](mailto:asnor023@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=SilencioOrgs&style=for-the-badge&color=black)](https://github.com/SilencioOrgs)
+[![Portfolio](https://img.shields.io/badge/Portfolio-asnorsumdad.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://asnorsumdad.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-asnor023@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asnor023@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=SilencioOrgs&style=for-the-badge&color=000000&label=PROFILE+VIEWS)](https://github.com/SilencioOrgs)
 
 </div>
 
@@ -45,6 +45,7 @@ I'm a Computer Engineering student at **Laguna State Polytechnic University** bu
 ## 🛠️ Tech Stack
 
 **Frontend**
+
 ![Next.js](https://skillicons.dev/icons?i=nextjs)
 ![React](https://skillicons.dev/icons?i=react)
 ![Flutter](https://skillicons.dev/icons?i=flutter)
@@ -52,6 +53,7 @@ I'm a Computer Engineering student at **Laguna State Polytechnic University** bu
 ![TailwindCSS](https://skillicons.dev/icons?i=tailwind)
 
 **Backend & Database**
+
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![FastAPI](https://skillicons.dev/icons?i=fastapi)
 ![PHP](https://skillicons.dev/icons?i=php)
@@ -61,11 +63,13 @@ I'm a Computer Engineering student at **Laguna State Polytechnic University** bu
 ![Supabase](https://skillicons.dev/icons?i=supabase)
 
 **Hardware & IoT**
+
 ![Arduino](https://skillicons.dev/icons?i=arduino)
 ![Raspberry Pi](https://skillicons.dev/icons?i=raspberrypi)
 ![C++](https://skillicons.dev/icons?i=cpp)
 
 **Tools**
+
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![Figma](https://skillicons.dev/icons?i=figma)
