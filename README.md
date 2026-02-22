@@ -19,34 +19,26 @@ Full-Stack Developer • IoT Builder • Computer Engineering Student 🇵🇭
 
 <h2 align="center">🚀 What I Build</h2>
 <p align="center">
-  <em>(aka things that occasionally work on the first try)</em>
-</p>
-<p align="center">
-💍 Wedding RSVP SaaS — because "maybe" is not a valid headcount  
-📱 ESP32 IoT mobile systems — tiny chip, big dreams  
-🤖 Raspberry Pi embedded projects — yes, it runs Doom  
-🧠 AI-powered web apps — making robots do my homework since 2023  
+💍 Wedding RSVP SaaS — because "maybe" is not a valid headcount<br/>
+📱 ESP32 IoT mobile systems<br/>
+🤖 Raspberry Pi embedded projects<br/>
+🧠 AI-powered web apps<br/>
+🤝 Vibe-coded solutions — I let the AI drive, I just make sure we don't crash
 </p>
 
 ---
 
 <h2 align="center">🛠 Tech Stack</h2>
 <p align="center">
-  <em>A carefully curated selection of things that have made me cry at least once</em>
-</p>
-<p align="center">
 <img src="https://skillicons.dev/icons?i=nextjs,react,php,mysql,postgres,flutter,fastapi,firebase,supabase,arduino,raspberrypi" />
 </p>
 
 ---
 
-<h2 align="center">🌐 Find Me On The Internet</h2>
+<h2 align="center">🌐 Portfolio</h2>
 <p align="center">
-  (please be nice, I have feelings and unresolved merge conflicts)
+<a href="https://asnorsumdad.vercel.app/">asnorsumdad.vercel.app</a>
 </p>
 <p align="center">
-<a href="https://asnorsumdad.vercel.app/">🔗 asnorsumdad.vercel.app</a>
-</p>
-<p align="center">
-📫 asnor023@gmail.com — response time varies depending on whether I'm debugging
+📫 asnor023@gmail.com
 </p>
