@@ -7,7 +7,9 @@
 
 ---
 
-<img src="https://media.tenor.com/Npdl9kOaKFJAAAAC/hanosaurs-filipino-meme.gif" width="420"/>
+<p align="center">
+  <img src="https://c.tenor.com/Npdl9kOaKFJAAAAC/hanosaurs-filipino-meme.gif" width="420"/>
+</p>
 
 ---
 
