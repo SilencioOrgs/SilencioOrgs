@@ -18,7 +18,7 @@ Santa Cruz, Laguna 🇵🇭 · asnor023@gmail.com
 
 ## About Me
 
-I'm a Computer Engineering student at **Laguna State Polytechnic University** building things across the full stack — from web platforms and mobile apps to IoT hardware systems. I work with real clients, ship real products, and occasionally let AI drive while I supervise.
+I'm a Computer Engineering student at **Laguna State Polytechnic University** building things across the full stack — from web platforms and mobile apps to IoT hardware systems. I work with real clients, and occasionally let AI drive while I supervise.
 
 - 🔭 Currently building: SaaS products & embedded IoT systems
 - 🎓 BS Computer Engineering, 2022 – Present
