@@ -2,7 +2,7 @@
 
 # Asnor Abaño Sumdad
 
-**Computer Engineering Student · Full-Stack Developer · IoT Engineer**
+**Computer Engineering Student · Full-Stack Developer**
 
 Santa Cruz, Laguna 🇵🇭 · asnor023@gmail.com
 
